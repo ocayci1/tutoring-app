@@ -1,0 +1,3 @@
+rootProject.name = 'ecse321project'
+
+include ':ECSE321Project-Backend'

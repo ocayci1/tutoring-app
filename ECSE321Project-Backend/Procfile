@@ -1,0 +1,1 @@
+web: java -jar ECSE321Project-Backend/build/libs/ECSE321Project-Backend-0.0.1-SNAPSHOT.jar
