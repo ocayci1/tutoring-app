@@ -10,7 +10,7 @@ Onur Çaycı | Build CI Tests, | 10 hours
 Murat Polat | Build system + Continuous integration | 10 hours
 Sani Haseeb | Implementation and testing of persistence layer | 10 hours
 
-[Project Report](https://github.com/McGill-ECSE321-Fall2019/project-group-7/wiki/Project-Report---Deliverable-1)
+[Project Report](https://github.com/ocayci1/tutoring-app/wiki/Project-Report---Deliverable-1)
 
 ## Project Deliverable 2
 Team Member | Task | Hours Spent 
@@ -21,7 +21,7 @@ Onur Çaycı | Travis CI and DB Work, Execute Unit Tests | 17 hours
 Murat Polat | Travis CI Tests, DB Tests, Develop Unit Tests | 15 hours
 Sani Haseeb | Develop Integration and Unit Tests | 12 hours
 
-[Project Report](https://github.com/McGill-ECSE321-Fall2019/project-group-7/wiki/Project-Report--Deliverable-2)
+[Project Report](https://github.com/ocayci1/tutoring-app/wiki/Project-Report--Deliverable-2)
 
 ## Project Deliverable 3
 Team Member | Task | Hours Spent 
@@ -32,7 +32,7 @@ Onur Çaycı | Front-end Web Design (Login and Signup page), Integration of Fron
 Murat Polat | Front-end Web Design (Login and Signup page), Integration of Frontend with Backend | 16 hours
 Sani Haseeb | Front-end Web Design (Home Page, Request Course form, Tutor List, Booking Form) | 12 hours
 
-[Project Report](https://github.com/McGill-ECSE321-Fall2019/project-group-7/wiki/Project-Report-Deliverable-3)
+[Project Report](https://github.com/ocayci1/tutoring-app/wiki/Project-Report-Deliverable-3)
 
 ## Project Deliverable 4
 Team Member | Task | Hours Spent 
@@ -43,4 +43,4 @@ Onur Çaycı | Integration of Frontend with Backend, Code Quality Check for Fron
 Murat Polat | Integration of Frontend with Backend, Code Quality Check for Frontend | 10 hours
 Sani Haseeb |Android Design (Student Profile Page) | 10 hours
 
-[Project Report](https://github.com/McGill-ECSE321-Fall2019/project-group-7/wiki/Project-Report-Deliverable-4)
+[Project Report](https://github.com/ocayci1/tutoring-app/wiki/Project-Report-Deliverable-4)
