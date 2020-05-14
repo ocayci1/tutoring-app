@@ -1,7 +1,4 @@
-# project-group-7
-project-group-7 created by GitHub Classroom
-
-# ECSE321 Project Group 7
+# Project Group 7
 Group 7 is working on the project from the Student perspective. A breakdown of our project deliverables is found below. For an in depth explanation of our project, with system requirements, domain modelling, use cases and documentation, please visit the wiki page. 
 
 ## Project Deliverable 1
